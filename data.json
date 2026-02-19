@@ -1,0 +1,62 @@
+{
+  "courses": {
+    "Data Science": {
+      "roadmap": ["Python Basics", "Pandas & Numpy", "Matplotlib & Seaborn", "Machine Learning", "Deep Learning"],
+      "syllabus": {
+        "Python Basics": ["Variables", "Loops", "Functions", "OOP"],
+        "Pandas & Numpy": ["DataFrames", "Array Operations", "Data Cleaning"],
+        "Matplotlib & Seaborn": ["Line/Bar/Pie Charts", "Histograms", "Scatter Plots"],
+        "Machine Learning": ["Regression", "Classification", "Clustering", "Model Evaluation"],
+        "Deep Learning": ["Neural Networks", "TensorFlow/PyTorch", "CNN & RNN"]
+      }
+    },
+    "Web Development": {
+      "roadmap": ["HTML/CSS", "JavaScript", "Bootstrap/Tailwind", "React", "Backend Python/NodeJS", "Database"],
+      "syllabus": {
+        "HTML/CSS": ["HTML Tags", "Forms", "Flex/Grid", "Responsive Design"],
+        "JavaScript": ["DOM Manipulation", "ES6", "Events", "AJAX"],
+        "Bootstrap/Tailwind": ["Grid System", "Cards", "Buttons", "Navbar"],
+        "React": ["Components", "State & Props", "Hooks", "Router"],
+        "Backend Python/NodeJS": ["Flask Basics", "REST API", "Routing", "Database Connection"],
+        "Database": ["SQL Queries", "Tables", "Joins", "CRUD Operations"]
+      }
+    },
+    "NDA/CDS": {
+      "roadmap": ["Mathematics", "General Knowledge", "English", "Physical Fitness"],
+      "syllabus": {
+        "Mathematics": ["Algebra", "Trigonometry", "Calculus", "Probability"],
+        "General Knowledge": ["History", "Geography", "Current Affairs", "Science"],
+        "English": ["Grammar", "Vocabulary", "Comprehension", "Essay Writing"],
+        "Physical Fitness": ["Running", "Pushups", "Situps", "Obstacle Training"]
+      }
+    },
+    "SSC CGL": {
+      "roadmap": ["General Awareness", "Quantitative Aptitude", "Reasoning", "English Language"],
+      "syllabus": {
+        "General Awareness": ["History", "Geography", "Polity", "Current Affairs"],
+        "Quantitative Aptitude": ["Algebra", "Arithmetic", "Geometry", "Statistics"],
+        "Reasoning": ["Analogies", "Series", "Coding-Decoding", "Puzzles"],
+        "English Language": ["Grammar", "Vocabulary", "Comprehension", "Sentence Improvement"]
+      }
+    },
+    "SSC CHSL": {
+      "roadmap": ["General Awareness", "Quantitative Aptitude", "Reasoning", "English Language"],
+      "syllabus": {
+        "General Awareness": ["History", "Geography", "Polity", "Current Affairs"],
+        "Quantitative Aptitude": ["Arithmetic", "Algebra", "Geometry", "Data Interpretation"],
+        "Reasoning": ["Series", "Analogies", "Puzzles", "Coding-Decoding"],
+        "English Language": ["Grammar", "Vocabulary", "Comprehension", "Sentence Rearrangement"]
+      }
+    },
+    "SSC GD": {
+      "roadmap": ["General Awareness", "Quantitative Aptitude", "Reasoning", "English Language", "Physical Fitness"],
+      "syllabus": {
+        "General Awareness": ["History", "Geography", "Polity", "Current Affairs"],
+        "Quantitative Aptitude": ["Arithmetic", "Algebra", "Geometry", "Data Interpretation"],
+        "Reasoning": ["Series", "Analogies", "Puzzles", "Coding-Decoding"],
+        "English Language": ["Grammar", "Vocabulary", "Comprehension", "Sentence Improvement"],
+        "Physical Fitness": ["Running", "Pushups", "Situps", "Obstacle Training"]
+      }
+    }
+  }
+}
