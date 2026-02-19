@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card-topic {
+    background: linear-gradient(135deg, #6BCB77, #4D96FF);
+    color: white;
+    font-weight: bold;
+    border-radius: 12px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.card-topic:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.3);
+}
+
+.accordion-button {
+    background-color: #FFD93D;
+    color: black;
+    font-weight: bold;
+}
+.accordion-button:not(.collapsed) {
+    background-color: #FF6B6B;
+    color: white;
+}
